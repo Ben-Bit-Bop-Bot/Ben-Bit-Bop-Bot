@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ben-Bit-Bop-Bot
 - 👀 I’m interested in AI, Coding, Python, Gaming, Philosophy, 
-- 🌱 I’m currently learning everything I can. As Mahatma Gandhi said, "Live as if you were to die tomorrow. Learn as if you were to live forever."
+- 🌱 I’m currently learning everything I can.
+As Mahatma Gandhi said, "Live as if you were to die tomorrow. Learn as if you were to live forever."
 - 💞️ I’m looking to collaborate on any projects that are interesting
 - 📫 How to reach me: Use a carrier pigeon
 - 😄 Pronouns: _____ [Insert Here]
